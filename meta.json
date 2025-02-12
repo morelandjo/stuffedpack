@@ -2,6 +2,17 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
+    
+    {
+        "id": "1.2.4",
+        "releasedAt": 1739217778,
+        "promotions": {
+            "downloads": {
+               
+                "curseforge": "https://www.curseforge.com/minecraft/modpacks/stuffed-minecraft-exploration-creativity-and-fun/files/6180414"
+               
+            }
+        }
+    }
   ]
 }
