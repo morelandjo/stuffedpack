@@ -1,0 +1,73 @@
+GAME BREAKING REVISION
+
+Please read if you are updating thisa pack from a previous version.
+
+As part of this update we've removed immersive portals. The mod compatability list along with the general instability of the mod in the pack has caused us to remove it. If you want to keep playing your old world here are your options:
+
+1. Remove all portals from your world, then update.
+
+2. Download the update then download immersive portals sepatrately and add it to the pack.
+
+3. Play a new world.
+
+
+Major update!
+This update adds numerous mods, features, and fixes so I have labeled this version 2.0.0! 
+
+Notable changes:
+- I've added a new dark mode GUI that I created myself. I prefer dark mode in my mods and didn't like all of the options other offered. You can disable this in resource packs if you don't like it.
+
+- New loading screen!
+
+Removals:
+Immersive Portals
+Modern Industrialization default book on spawn removed
+
+Additions:
+
+Yung Structures Addon for Loot Integrations
+Yungs Better Desert Temples
+Yungs Better Dungeons
+Yungs Better Jungle Temples
+Yungs Better Ocean Monuments
+Yungs Better Nether Fortress
+Yungs Better Witch Huts
+Yungs Better Strongholds
+Universal Bone Meal
+Time on Display
+Sensible Stackables
+PlayerRevive
+Dis-enchanting Table
+Fresh Animations
+Entity Texture Features
+Entity Model Features
+Craftable Horse Armor & Saddle
+Crafting Tweaks
+Redirected
+Oh the Biomes We've Gone Delight
+Biomes O' Plenty Delight
+MixinTrace Resmithed
+Load my F***ing Tags
+Does it tick?
+Ditraction Free Recipes
+Chipped
+Adventure Dungeons
+Effect Descriptions
+Bridging Mod
+Chest Search Bar
+Ambient Environment
+Castle Tower
+Mushroom Village Trader
+RightClickHarvest
+Visuality Reforged
+Toast Control
+Bow Infinity Fix
+Durability Tooltip
+spark
+Drippy Loading Screen
+Global Packs
+Elytra Trims
+Seamless
+The Block Box
+
+More great things to come!
