@@ -13,6 +13,17 @@
                
             }
         }
+    },
+    {
+        "id": "2.0.0",
+        "releasedAt": 1740087300000,
+        "promotions": {
+            "downloads": {
+               
+                "curseforge": "https://www.curseforge.com/minecraft/modpacks/stuffed-minecraft-exploration-creativity-and-fun/files/6215139"
+               
+            }
+        }
     }
   ]
 }
