@@ -1,0 +1,27 @@
+New update with several new mods!
+
+I finally found the source of the repeating narrator (and kubejs 400+ errors) bug, Bovines and Buttercups was breaking the config files. This mod has been removed for now.
+
+ 
+
+New Mods:
+
+Easy Magic
+Charming Chisels
+Armor Poser
+Stylish Effects
+Loot Integrations Philip's Ruins
+Dynamic FPS
+More Culling
+Aquaculture delight
+Loot Integrtations When Dungeons Arise
+Loot Integrations Moogs
+Loot Integrations Formations
+Loot Integrations Structory
+Loot Integrations Towns and Towers
+Loot Integrations Dungeon Crawl
+Loot Integrations Hopo
+Loot Integrations Randomized Loot Compatability
+Loot Intergrations Dungeons and Taverns
+Loot Integrations Awesome Dungeon
+Loot Integrations Mo' Structures
