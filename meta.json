@@ -23,7 +23,8 @@
                 "curseforge": "https://www.curseforge.com/minecraft/modpacks/stuffed-minecraft-exploration-creativity-and-fun/files/6215139"
                
             }
-        }
+        },
+      "updateType":"minor_breaking"
     }
   ]
 }
