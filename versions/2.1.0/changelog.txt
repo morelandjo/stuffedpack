@@ -1,0 +1,18 @@
+Tweaks:
+Changed forgematica wand from stick to bedrock
+Removed teleporting compass feature caused by worldedit
+Added Mini Mob Tropy and Oskar's Kitchen to dark GUI
+
+Fixes:
+Changed tip color of titles to yellow
+Fixed a few tips, and added a couple new ones
+
+Additions:
+Mini Mob Trophy
+Immersive Optimization
+Emotecraft
+More Babies
+Xaero Plus
+Waystones
+Oskar's Kitchencraft
+Subtle Effects
