@@ -1,0 +1,67 @@
+CREATE HAS RELEASED FOR 1.21.1 Neoforge! This mod pack update includes Create.
+
+Major update for the mod pack, 3.0.0
+
+IMPORTANT information regarding mod removals below, read these notes if you are updating from a previous version.
+
+Updates:
+  Dark GUI updated
+  NeoForge updated to 21.1.125
+  Fix subtle effects making some fairly annoying particles for item drops
+  Removed KubeJS errors
+  Torches in offhand can only be placed while holding a tool, this prevents accidental offhand torch placement
+  increased minimum distance between structures so they hopefully won't overlap
+
+Removed:
+  Yuushya Townscape: This mod just doesn't fit with the pack in general and adds a lot of fluff in JEI.
+
+Temporarily Removed:
+  Unfortunately these mods are causing a crash on NeoForge 21.1.125 which is required for Create. These mods will be re-enabled as soon as they are updated:
+  
+    Amendments
+    Moonrise
+    Packet Fixer
+    Supplementaries
+
+
+There are mod removals in this update. If you are updating from the previous version of Stuffed Pack, used the listed mods, and want to keep playing an existing world, here are your options:
+
+1. Download the update, then download the removed mods separately and add them to your install, then play the world.
+
+2. Remove all blocks/entities from the mod before updating, then update the pack.
+
+3. Back up your world, update the mod pack, then test the world and see what happens. At best all of the missing mods items/entities/blocks will have disappeared, but you can continue to play the mod. If you experience crashes you may need to downgrade the mod pack and perform option 2.
+
+New mods:
+
+L_Ender 's Cataclysm
+Mini Clock Tower
+Tax Tree Giant
+Klee Slabs
+Luminous: Butterflies
+Customizable Elytra
+Decorative Paths
+Decorative Railings
+Sorted Enchantments
+More Vanilla Shields
+All the Wood we've got
+Display Delight
+Platforms
+End's Phantasm
+Feur Extension Fossil
+Better Tridents
+Cat Jammies
+Chalk
+Rainbows!
+Auroras
+Feature Recycler
+Clean Tooltips
+Client Tweaks
+FlickerFix
+JEED
+Better Combat
+Hyperbox
+Structure Credits
+Unnamed Desert
+Epic Paladins
+Create
