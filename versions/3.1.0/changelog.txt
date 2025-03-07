@@ -1,0 +1,25 @@
+Notes:
+- Amendments and Supplementaries re-enabled
+- Updated Create, many bug fixes
+
+Removed:
+- Biomes O' Plenty Delight
+- Deeper and Darker Delight
+- Oh the Biomes We've Gone Delight
+There is a lot of drama regarding these mods and the author, complaints of poorly coded or stolen/modified assets. Not interested in this kind of drama
+
+Added:
+- Tiny Dragons
+- Moogs Missing Villages
+- Neighborly
+- I wanna travel ~ structure
+- Just enough crowns
+- Villager clock tower
+- Hobbit house
+- Villager saloon
+- Xaero's minimap icons reforged
+- Flerovium
+- Yet Another Memory Optimization
+- Wild West Structures
+- Regions Unexplored
+- Farmer's Cutting Regions Unexplored
