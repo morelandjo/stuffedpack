@@ -1,0 +1,47 @@
+Major performance update!
+
+The mod pack finaly hit a critical mass of performance loss with the latest release. We like to keep this pack light weight and available to more people rather than filling the pack with everything and requiring a large amount of RAM.
+
+This release removes a large number of mods which can be game breaking. However the benefits outweigh the loss:
+
+Ram min required before: 9GB+
+Ram min required now: 5GB (6GB recommended, 8GB shaders)
+Loading time before: 2min 20sec
+Loading time now: 1min 02 sec
+Time from new game to world render before: 3min+
+Time from new game to world render now: 1min 30sec
+
+Tweaked
+Increased structure spawning chance
+Lowered Chocobo spawning chance
+
+New
+Not Enough Recipe Book
+
+Disabled (mod conflicts, will re-add asap)
+Better Chunk Loading
+Diagonal fences, walls, windows
+
+Removed (some of these may return in the future)
+Redirected
+Let me despawn
+Does it Tick?
+neruina
+completionists index
+Log Begone
+Moonrise
+Dramatic Doors
+MOA Decor
+Domum Ornamentum
+Easy NPC
+Macaws Fences BoP
+Macaws Terraformers MC
+Better Copper Armor and Tools
+
+There are mod removals in this update. If you are updating from the previous version of Stuffed Pack, used the listed mods, and want to keep playing an existing world, here are your options:
+
+1. Download the update, then download the removed mods separately and add them to your install, then play the world.
+
+2. Remove all blocks/entities from the mods that were removed before updating, then update the pack.
+
+3. Back up your world, update the mod pack, then test the world and see what happens. At best all of the missing mods items/entities/blocks will have disappeared, but you can continue to play the mod. If you experience crashes you may need to downgrade the mod pack and perform option 2.
