@@ -85,6 +85,18 @@
             }
         },
       "updateType":"minor_breaking"
+    },
+    {
+        "id": "3.2.1",
+        "releasedAt": 1741827534950,
+        "promotions": {
+            "downloads": {
+               
+                "curseforge": "https://www.curseforge.com/minecraft/modpacks/stuffed-minecraft-exploration-creativity-and-fun/files/"
+               
+            }
+        },
+      "updateType":"minor"
     }
   ]
 }
