@@ -1,0 +1,40 @@
+Updated Neoforge to 21.1.133 to satisfy mod requirements
+
+Restored:
+Better Chunk Loading
+Diagonal fences, walls, windows
+
+Removed:
+Moonlight
+
+Tweaks:
+Disabled waystone cost
+
+New:
+Too Fast
+ChoiceTheorem's Overhauled Village
+Get it Together Drops
+Lithium
+Crash Exploit Fixer
+Explorations
+No Chat Reports
+Limited Chunkloading
+Redstone Pen
+Dynamic View
+Hopo Better Ruined Portals
+Pale Garden and Creaking
+Just another Rotten Flesh to Leather Mod
+Wabi-sabi Structures
+Scalable Lux
+Underground Villages, Stoneholm
+Crawl
+Fast Suite
+Smooth Skies
+EXP Counter
+GUI Effect Timer
+F.M.R.P
+Explorer's Compass Edited
+Sever Pause Utility
+Inverted Beds
+Grass Seeds
+Variants&Ventures
