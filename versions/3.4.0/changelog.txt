@@ -1,0 +1,13 @@
+Modified:
+Removed the annoying black flash when exiting container GUIS (crafting table, furnace, etc)
+
+Added:
+Open Parties and Claims
+Fast Item Frames
+Simply Swords
+Create Curios Jetpack and Backtank
+Create Touch-ups
+Create Let the Adventure Begin
+Enhanced Celestials
+Create Dough Compat
+Refined Storage
