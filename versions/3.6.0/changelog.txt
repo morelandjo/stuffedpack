@@ -1,0 +1,30 @@
+I have been slacking again, finally found time to update the modpack. This is a significant update with breaking changes. At some point a modpack this size becomes too big and bloated. It was taking far too long for worlds to be created. I have removed several mods that were causing performance issues. The game should load in about 2 minutes and worlds should load in 1-2.
+
+New:
+Light Detector
+Aquatic Torches Returns
+Windows Keyboard Fixes Returns
+Jagm's Kiwis
+
+Removed:
+Better FPS
+AI Improvements
+Better Biome Reblend
+Flerovium
+Fix GPU Memory Leak
+Achievements Optimizer
+In Control
+Immersive Optimization
+Cull Leaves
+Structure Essentials
+Day Display
+Clickable Advancements
+Global Packs
+Macaw's Biomes O' Plenty
+cat loaf
+Macaw's Oh The Biomes You'll Go
+Better Chunk Loading
+Tectonic
+Display Delight
+More Crafting Tables for Forge
+worldedit
